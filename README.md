@@ -1,6 +1,6 @@
 ## Bem-Vindo ao meu Git Hub 😄
 
-- 🔭 Atualmente eu não trabalho na área da tecnologia, mas estou sempre estudando e procurando algo par aprofundar meu estudo;
+- 🔭 Atualmente eu não trabalho na área da tecnologia, mas estou sempre estudando e procurando algo para aprofundar meu estudo;
 
 - 🌱 Estou estudando um pouco de cada linguagem de programação, como Phyton, C#, SLQ, Java Script, etc., no curso de Desenvolvimento de Sistemas da Etec de Embu.
 
