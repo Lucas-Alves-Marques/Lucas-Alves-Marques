@@ -6,7 +6,7 @@
 <p><strong>• Desenvolvimento de Sistemas </strong> - ETEC de Embu (07/2025)</p>
 
 <h3>  💻 TECNOLOGIAS:</h3>
-<p> • Durante minha jornada na aréa da TI, utilizei diversas linguagems de progrmaação para conseguir o melhor desenvlvimento e desempenho das minhas aplicações:</p>
+<p> • Durante minha jornada na aréa da TI, utilizei diversas linguagems de progrmaação para conseguir o melhor desenvolvimento e desempenho das minhas aplicações:</p>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60" height="60" hspace="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60" hspace="10" />
