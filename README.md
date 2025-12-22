@@ -1,32 +1,49 @@
-## Bem-Vindo ao meu Git Hub 😄
+<H1>👨‍💻 DESENVOLVEDOR DE SISTEMAS JÚNIOR </H1>
+<h3> 📍 SOBRE MIM:</h3>
+<p> • Formado como técnico em Desenvolvimento de Sistemas pela Etec de Embu, atualmete trabalho como programador júnior, auxiliando o time de TI a criar aplicações web que facilitam as atividades diárias dos nosos colaboradores.</p>
 
-- 🔭 Atualmente eu não trabalho na área da tecnologia, mas estou sempre estudando e procurando algo para aprofundar meu estudo;
+<h3> 👨🏽‍🎓 FORMAÇÃO:</h3>
+<p><strong>• Desenvolvimento de Sistemas </strong> - ETEC de Embu (07/2025)</p>
 
-- 🌱 Estou estudando um pouco de cada linguagem de programação, como Phyton, C#, SLQ, Java Script, etc., no curso de Desenvolvimento de Sistemas da Etec de Embu.
+<h3>  💻 TECNOLOGIAS:</h3>
+<p> • Durante minha jornada na aréa da TI, utilizei diversas linguagems de progrmaação para conseguir o melhor desenvlvimento e desempenho das minhas aplicações:</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60" height="60" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60" hspace="10" />
+  <img src="https://icongr.am/devicon/python-original.svg?size=94&color=f3ecec" width="60" height="60" shspace="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" hspace="10" />
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="60" height="60" hspace="10" />
+  <img src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg" width="60" height="60" hspace="10"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0_yhGEmhIF8QjL7poBJqowjSlIw0kKKOJA&s" width="60" hspace="10"/>
+</p>
 
-- 📱 Algumas das tecnologias que venho me especializando são:
-
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
-<img src="https://icongr.am/devicon/python-original.svg?size=94&color=f3ecec" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg" width="40" height="40"/>
-
+<h3>📈 ESTATÍSTICAS DO GIT HUB</h3>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Lucas-Alves-Marques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Lucas-Alves-Marques&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+    
+<h3>📫 Contatos</h3>
+<p align="left">
+  📩
+  &nbsp;
+  <a href="mailto:lucas.marquesalv24@gmail.com">
+    lucas.marquesalv24@gmail.com
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+      width="18"
+      alt="LinkedIn"
+      style="vertical-align: middle;"
+  />
+  <a href="https://www.linkedin.com/in/lucas-alves-752055214/" target="_blank">
+    &nbsp;
+    <strong>Lucas Alves</strong>
+  </a>
+</p>
 
-- 📫 Meus contatos:
-
-<a href = "mailto:lucas.marquesalv24@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-alves-752055214/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-<div>
-<a href="https://github.com/Lucas-Alves-Marques">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Alves-Marques&layout=compact&langs_count=10&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Alves-Marques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-</div>
+
