@@ -1,6 +1,6 @@
 <H1>👨‍💻 DESENVOLVEDOR DE SISTEMAS JÚNIOR </H1>
 <h3> 📍 SOBRE MIM:</h3>
-<p> • Formado como técnico em Desenvolvimento de Sistemas pela Etec de Embu, atualmete trabalho como programador júnior, auxiliando o time de TI a criar aplicações web que facilitam as atividades diárias dos nosos colaboradores.</p>
+<p> • Formado em técnico em Desenvolvimento de Sistemas pela Etec de Embu, atualmete trabalho como programador júnior, auxiliando o time de TI a criar aplicações web que facilitam as atividades diárias dos nosos colaboradores.</p>
 
 <h3> 👨🏽‍🎓 FORMAÇÃO:</h3>
 <p><strong>• Desenvolvimento de Sistemas </strong> - ETEC de Embu (07/2025)</p>
