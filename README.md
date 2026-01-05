@@ -19,8 +19,10 @@
 
 <h3>📈 ESTATÍSTICAS DO GIT HUB</h3>
 <div align="left">
-  <img height='200' src="https://github-readme-stats.vercel.app/api?username=Lucas-Alves-Marques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Lucas-Alves-Marques&layout=compact&langs_count=7&theme=tokyonight"/>
+  &nbsp;
+  <img height='170' src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucas-Alves-Marques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  &nbsp;
+  <img height='250' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucas-Alves-Marques&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
     
