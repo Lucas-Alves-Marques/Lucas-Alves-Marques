@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60" height="60" hspace="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60" hspace="10" />
   <img src="https://icongr.am/devicon/python-original.svg?size=94&color=f3ecec" width="60" height="60" shspace="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" hspace="10" />
+  <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/nodejs-icon-svg-download-png-9632853.png" width="60" height="60" hspace="10" />
   <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="60" height="60" hspace="10" />
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg" width="60" height="60" hspace="10"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0_yhGEmhIF8QjL7poBJqowjSlIw0kKKOJA&s" width="60" hspace="10"/>
