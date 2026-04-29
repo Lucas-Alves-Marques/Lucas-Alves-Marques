@@ -6,16 +6,25 @@
 <p><strong>Desenvolvimento de Sistemas </strong> - ETEC de Embu (07/2025)</p>
 
 <h3>💻 TECNOLOGIAS:</h3>
-<p>Durante minha jornada na aréa da TI, utilizei diversas linguagems de progrmaação para conseguir o melhor desenvolvimento e desempenho das minhas aplicações:</p>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60" height="60" hspace="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60" hspace="10" />
-  <img src="https://icongr.am/devicon/python-original.svg?size=94&color=f3ecec" width="60" height="60" shspace="10"/>
-  <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/nodejs-icon-svg-download-png-9632853.png" width="60" height="60" hspace="10" />
-  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="60" height="60" hspace="10" />
-  <img src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg" width="60" height="60" hspace="10"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0_yhGEmhIF8QjL7poBJqowjSlIw0kKKOJA&s" width="60" hspace="10"/>
+
+<p>
+Durante minha jornada na área de TI, utilizei diversas tecnologias para desenvolver aplicações com foco em desempenho, organização e boas práticas:
 </p>
+
+<div align="left">
+  &nbsp;&nbsp;
+  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
+  &nbsp;
+  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  &nbsp;
+  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+  &nbsp;
+  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  &nbsp;
+  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+  &nbsp;
+  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+</div>
 
 <h3>📈 ESTATÍSTICAS DO GIT HUB</h3>
 <div align="left">
