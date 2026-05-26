@@ -10,7 +10,7 @@
 <p>
 Durante minha jornada na área de TI, utilizei diversas tecnologias para desenvolver aplicações com foco em desempenho, organização e boas práticas:
 </p>
-
+  &nbsp;
 <div align="left">
   &nbsp;&nbsp;
   <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
