@@ -1,17 +1,25 @@
-<h1>👨‍💻 DESENVOLVEDOR DE SISTEMAS JÚNIOR</h1>
+<h1 align="center">👨‍💻 DESENVOLVEDOR DE SISTEMAS JÚNIOR</h1>
 
-<h3>📍 SOBRE MIM</h3>
+<p align="center">
+  <strong>Desenvolvimento Web • React • Next.js • Node.js</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FFFF,100:0066FF&height=120&section=header"/>
+</p>
+
+<h3>⚡ SOBRE MIM</h3>
 
 <p>
 Sou formado em <strong>Desenvolvimento de Sistemas pela Etec de Embu</strong> e atualmente trabalho como Desenvolvedor de Software Júnior.
 </p>
 
 <p>
-Atuo no desenvolvimento de aplicações web voltadas para automatizar e facilitar atividades do dia a dia, buscando sempre escrever código organizado, funcional e de fácil manutenção.
+Atuo no desenvolvimento de aplicações web voltadas para automatizar e facilitar atividades do dia a dia, buscando desenvolver soluções organizadas, funcionais e de fácil manutenção.
 </p>
 
 <p>
-Tenho interesse em continuar evoluindo como desenvolvedor, aprofundando meus conhecimentos em desenvolvimento web e explorando novas tecnologias e boas práticas de programação.
+Tenho como objetivo continuar evoluindo profissionalmente, aprofundando meus conhecimentos em desenvolvimento web e explorando novas tecnologias e boas práticas de programação.
 </p>
 
 ---
@@ -20,66 +28,116 @@ Tenho interesse em continuar evoluindo como desenvolvedor, aprofundando meus con
 
 <p>
 <strong>Desenvolvimento de Sistemas</strong> — ETEC de Embu<br>
-Conclusão: Julho de 2025
+📅 Conclusão: Julho de 2025
 </p>
 
 ---
 
 <h3>💻 TECNOLOGIAS</h3>
 
+<h4>🌐 FRONT-END</h4>
+
 <p>
-Algumas das tecnologias que utilizo no desenvolvimento de aplicações:
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
+&nbsp;&nbsp;
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+&nbsp;&nbsp;
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+&nbsp;&nbsp;
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
 </p>
 
-<h4>🌐 Front-end</h4>
+<h4>⚙️ BACK-END & BANCO DE DADOS</h4>
 
-<div align="left">
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  &nbsp;&nbsp;
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  &nbsp;&nbsp;
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  &nbsp;&nbsp;
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-</div>
+<p>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+&nbsp;&nbsp;
+<img height="55" src="https://cdn.simpleicons.org/express/FFFFFF"/>
+&nbsp;&nbsp;
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+</p>
 
-<h4>⚙️ Back-end & Banco de Dados</h4>
+<h4>🛠️ FERRAMENTAS</h4>
 
-<div align="left">
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  &nbsp;&nbsp;
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-  &nbsp;&nbsp;
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  &nbsp;&nbsp;
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-</div>
+<p>
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+&nbsp;&nbsp;
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+&nbsp;&nbsp;
+<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"/>
+</p>
 
-<h4>🛠️ Ferramentas</h4>
+---
 
-<div align="left">
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  &nbsp;&nbsp;
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  &nbsp;&nbsp;
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-</div>
+<h3>🚀 PROJETOS EM DESTAQUE</h3>
+
+<table>
+  
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎲 Smart Pick</h3>
+      <p align="center">
+        Sistema de Sorteio.
+      </p>
+      <p align="center">
+        <strong>Node.js • React • MySQL</strong>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🍀 Chat Mongo DB</h3>
+      <p align="center">
+      Chat interativo que usa o mongo DB como banco de dados.
+      </p>
+      <p align="center">
+      <strong>Mongo DB • Next JS • Socket IO</strong>
+      </p>
+    </td>
+  <tr>
+    
+  <tr>
+    <td width="50%">
+      <h3 align="center">🪙 Projeto Costs</h3>
+      <p align="center">
+        Sistema de Gerenciamento de Projetos de T.I.
+      </p>
+      <p align="center">
+        <strong>React JS • React Icons • JSON Server</strong>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🐱 PokéDex Traduzida</h3>
+      <p align="center">
+        Uma Pokédex que usa um glossário para traduzir os poderes dos Pokémons
+      </p>
+      <p align="center">
+        <strong>React Native • Redux • I18Next</strong>
+      </p>
+    </td>
+  </tr>
+  
+</table>
 
 ---
 
 <h3>📊 ESTATÍSTICAS DO GITHUB</h3>
 
-<div align="left">
+<p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Lucas-Alves-Marques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Lucas-Alves-Marques&show_icons=true&theme=tokyonight&hide_border=true"
   />
   &nbsp;
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Alves-Marques&layout=compact&langs_count=7&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Alves-Marques&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"
   />
-</div>
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Alves-Marques&theme=tokyonight&hide_border=true"
+  />
+</p>
 
 ---
 
@@ -89,8 +147,6 @@ Algumas das tecnologias que utilizo no desenvolvimento de aplicações:
 
 📩 <a href="mailto:lucas.marquesalv24@gmail.com">
 [lucas.marquesalv24@gmail.com](mailto:lucas.marquesalv24@gmail.com) </a>
-
-    
 
 <a href="https://www.linkedin.com/in/lucas-alves-752055214/" target="_blank">
   <img
@@ -103,4 +159,8 @@ Algumas das tecnologias que utilizo no desenvolvimento de aplicações:
   <strong>LinkedIn</strong>
 </a>
 
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,50:00FFFF,100:0D1117&height=100&section=footer"/>
 </p>
