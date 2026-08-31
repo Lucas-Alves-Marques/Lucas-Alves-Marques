@@ -119,6 +119,22 @@ Tenho como objetivo continuar evoluindo profissionalmente, aprofundando meus con
 
 ---
 
+<h3>📈 ESTATÍSTICAS DO GITHUB</h3>
+
+<p align="start">
+  <img
+    height="170"
+    src="./profile/stats.svg"
+  />
+  &nbsp;
+  <img
+    height="170"
+    src="./profile/top-langs.svg"
+  />
+</p>
+
+---
+
 <h3>📫 CONTATOS</h3>
 
 <p align="left">
