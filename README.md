@@ -119,28 +119,6 @@ Tenho como objetivo continuar evoluindo profissionalmente, aprofundando meus con
 
 ---
 
-<h3>📊 ESTATÍSTICAS DO GITHUB</h3>
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Lucas-Alves-Marques&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-  &nbsp;
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Alves-Marques&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Alves-Marques&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
-
 <h3>📫 CONTATOS</h3>
 
 <p align="left">
